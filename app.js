@@ -3,8 +3,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const app = express();
 app.use(express.json());
-
-mongoose.connect("mongodb://localhost:27017/expenses").then(() => {
+mongoose.connect("mongodb+srv://admin:admin123@mernbackend.wyhuz.mongodb.net/?retryWrites=true&w=majority&appName=mernbackend").then(() => {
   console.log("connected to database");
 });
 

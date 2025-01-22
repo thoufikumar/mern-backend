@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Jane Doe",
+    "age": 20,
+    "city": "New York",
+    "amount": 100
+  },
+  {
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "amount": 200
+  },
+  {
+    "name": "Jane Doe",
+    "age": 21,
+    "city": "Landon",
+    "amount": 300
+  },
+  {
+    "name": "John",
+    "age": 25,
+    "city": "New York",
+    "amount": 1500
+  }
+]
